@@ -25,3 +25,6 @@ Website cá nhân giới thiệu bản thân, các kỹ năng lập trình, sở
 - **Phong Nha** - Quảng Bình, Việt Nam
 - **Mỹ Sơn** - Quảng Nam, Việt Nam
 - **Vịnh Hạ Long** - Quảng Ninh, Việt Nam
+## Live Demo và Figma
+**https://roaring-kheer-d3e123.netlify.app/**
+
