@@ -27,4 +27,5 @@ Website cá nhân giới thiệu bản thân, các kỹ năng lập trình, sở
 - **Vịnh Hạ Long** - Quảng Ninh, Việt Nam
 ## Live Demo và Figma
 **https://dashing-fudge-ef674d.netlify.app/**
+**https://www.figma.com/design/1sSPkr2uLgeDjlPaleUwGz/Sans-titre?node-id=0-1&t=OenSwMxJjIW93Y58-1**
 
